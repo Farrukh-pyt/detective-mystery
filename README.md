@@ -1,2 +1,22 @@
-# detective-mystery
-A simple detective game written in Python where the player collects clues and tries to identify the culprit.
+# Detective Mystery
+
+A simple detective game written in Python.
+
+The player investigates a diamond theft, gathers clues, and tries to identify the thief.
+
+## Features
+
+- Investigation system
+- Multiple suspects
+- Clue collection
+- Decision making
+
+## How to run
+
+Run:
+
+python detective_game.py
+
+## Author
+
+Farrukh
